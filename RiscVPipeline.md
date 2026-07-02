@@ -61,4 +61,8 @@ Com isso, uma alternativa é a estratégia de ***Branch Prediction*** (também n
 
 ![](Imagens/PipelineXMono.png)
 
+## Importante! Cálculo de CPI   
+
+$$CPI = \frac{\text{Ciclos Totais}}{\text{Número de Instruções}}$$
+
 ## Continuar estudando pelos slides, muita coisa pra anotar
